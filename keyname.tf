@@ -1,5 +1,5 @@
 # Defining Key Name for connection
-variable "Keyname" {
+variable "keyname" {
   default     = "cba_keypair" 
   description = "name of keypair"
 }
