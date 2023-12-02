@@ -1,5 +1,5 @@
 # Defining Key Name for connection
 variable "Keyname" {
-  default     = "terraform-project" 
-  description = "cba_keypair"
+  default     = "cba_keypair" 
+  description = "name of keypair"
 }
